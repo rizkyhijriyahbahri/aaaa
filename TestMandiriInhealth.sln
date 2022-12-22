@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMandiriInhealth", "TestMandiriInhealth\TestMandiriInhealth.csproj", "{ED6F5A23-495E-4E0C-B61C-7E9CF1D4D3A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED6F5A23-495E-4E0C-B61C-7E9CF1D4D3A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6F5A23-495E-4E0C-B61C-7E9CF1D4D3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6F5A23-495E-4E0C-B61C-7E9CF1D4D3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6F5A23-495E-4E0C-B61C-7E9CF1D4D3A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAF836C5-4DD9-4F67-9B00-E1EED761D2AB}
+	EndGlobalSection
+EndGlobal
